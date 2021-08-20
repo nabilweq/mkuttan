@@ -27,6 +27,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.3rem;
 }
 
+.logo-head {
+  height: 100px;
+  width: 100px;
+}
+
 /*--------------------------------------------------------------
 # Sections
 --------------------------------------------------------------*/
@@ -56,10 +61,6 @@ section {
   line-height: 42px;
   font-weight: 700;
   color: #012970;
-}
-
-.logo-head {
-  height: 20px;
 }
 
 @media (max-width: 768px) {
